@@ -1,4 +1,4 @@
-# Hello, I'm Lars Erik Risholm 👋
+# Hello world, My name is Lars Erik Risholm 👋 I'm from Norway 🇳🇴
 
 I'm an enthusiastic Computer Engineering Student, always ready for new adventures.
 
