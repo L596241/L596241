@@ -61,7 +61,7 @@ Note: These stats are only reflecting my GitHub projects (excluding the CS50 pro
 
 ## 🎨 Portfolio
 
-You can find some of my projects here in GitHub-repositores, but I recommend checking out my portfolio page https://596241.github.io/mxlarscoding/.
+You can find some of my projects here in GitHub-repositores, but I recommend checking out my portfolio page https://l596241.github.io/mxlarscoding/.
 
 ## 🌱 Current Learning Goals
 
