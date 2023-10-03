@@ -36,18 +36,16 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 ## 📈 GitHub Stats
 
 <a href="https://github.com/l596241">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l596241&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🎨 Portfolio
 
-You can find my projects here in github-repositores, but a easier overview can be found on my portfolio page (https://596241.github.io/mxlarscoding/).
+You can find some of my projects here in github-repositores, but i reccoment checking out my portfolio page https://596241.github.io/mxlarscoding/.
 
 ## 🌱 Current Learning Goals
 
 Machine learning and Advanced Algorithms
+
 CS50 Ai - Harvard University
 
----
-
-⭐️ From [l596241](https://github.com/l596241)
