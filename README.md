@@ -13,25 +13,47 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px;" alt="JavaScript"/>
         <br>JavaScript
       </td>
-      <!-- More icons -->
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px;" alt="Python"/>
         <br>Python
       </td>
-      <!-- More icons -->
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px;" alt="Java"/>
+        <br>Java
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="50px;" alt="Jupyter Notebook"/>
+        <br>Jupyter Notebook
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px;" alt="HTML5"/>
+        <br>HTML5
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jinja/jinja-original.svg" width="50px;" alt="Jinja"/>
+        <br>Jinja
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px;" alt="C"/>
+        <br>C
+      </td>
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50px;" alt="PostgreSQL"/>
         <br>PostgreSQL
       </td>
-      <!-- More icons -->
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px;" alt="SQLite"/>
         <br>SQLite
       </td>
-      <!-- More icons -->
+      <!-- Empty Cell for alignment -->
+      <td align="center" width="20%">
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 ## 📈 GitHub Stats
 
