@@ -55,12 +55,12 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 <a href="https://github.com/l596241">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l596241&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-#### Note: These stats are only reflecting my github projects (excluding the CS50 projects)
+Note: These stats are only reflecting my GitHub projects (excluding the CS50 projects)
 
 
 ## 🎨 Portfolio
 
-You can find some of my projects here in github-repositores, but i reccoment checking out my portfolio page https://596241.github.io/mxlarscoding/.
+You can find some of my projects here in GitHub-repositores, but I recommend checking out my portfolio page https://596241.github.io/mxlarscoding/.
 
 ## 🌱 Current Learning Goals
 
