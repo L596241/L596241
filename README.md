@@ -29,8 +29,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px;" alt="HTML5"/>
         <br>HTML5
       </td>
-    </tr>
-    <tr>
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px;" alt="C"/>
         <br>C
