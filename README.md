@@ -46,10 +46,17 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px;" alt="SQLite"/>
         <br>SQLite
       </td>
+      <td align="center" width="20%">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-512.png" width="50px;" alt="Adobe Photoshop"/>
+        <br>Adobe Photoshop
+      </td>
+      <td align="center" width="20%">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/8_Premier_Pro_Adobe_logo_logos-512.png" width="50px;" alt="Adobe Premiere Pro"/>
+        <br>Adobe Premiere Pro
+      </td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## 📈 GitHub Stats
