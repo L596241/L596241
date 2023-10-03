@@ -1,4 +1,4 @@
-# Hello world, My name is Lars Erik Risholm 👋 I'm from Norway ![Norwegian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png)
+# Hello world, My name is Lars Erik Risholm 👋 I'm from Norway 🇳🇴
 
 
 I'm an enthusiastic Computer Engineering Student, always ready for new adventures.
