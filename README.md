@@ -4,7 +4,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 
 ![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## 🛠 Technologies & Tools
 
 ## 🛠 Technologies & Tools
 
@@ -44,11 +43,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
       <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" width="50px;" alt="SQLite"/>
         <br>SQLite
-      </td>
-      <!-- Empty Cells for alignment -->
-      <td align="center" width="20%">
-      </td>
-      <td align="center" width="20%">
       </td>
     </tr>
   </tbody>
