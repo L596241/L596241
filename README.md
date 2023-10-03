@@ -55,6 +55,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 <a href="https://github.com/l596241">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l596241&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+#### Note: These stats are only reflecting my github projects (excluding the CS50 projects)
 
 
 ## 🎨 Portfolio
