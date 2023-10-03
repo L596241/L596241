@@ -32,10 +32,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
     </tr>
     <tr>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jinja/jinja-original.svg" width="50px;" alt="Jinja"/>
-        <br>Jinja
-      </td>
-      <td align="center" width="20%">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50px;" alt="C"/>
         <br>C
       </td>
