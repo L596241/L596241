@@ -7,8 +7,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 ![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
-## 🛠 Technologies & Tools
-
 <table>
   <tbody>
     <tr>
@@ -55,9 +53,22 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>Adobe Premiere Pro
       </td>
     </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50px;" alt="CSS"/>
+        <br>CSS
+      </td>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="50px;" alt="MATLAB"/>
+        <br>MATLAB
+      </td>
+      <!-- Empty cells to complete the row -->
+      <td align="center" width="20%"></td>
+      <td align="center" width="20%"></td>
+      <td align="center" width="20%"></td>
+    </tr>
   </tbody>
 </table>
-
 
 ## 📈 GitHub Stats
 
