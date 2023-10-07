@@ -77,6 +77,28 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>Flask
       </td>
     </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50px;" alt="Azure"/>
+        <br>Azure
+      </td>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="IntelliJ"/>
+        <br>IntelliJ
+      </td>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50px;" alt="Spring Boot"/>
+        <br>Spring Boot
+      </td>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" width="50px;" alt="Maven"/>
+        <br>Maven
+      </td>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" width="50px;" alt="Tomcat"/>
+        <br>Tomcat
+      </td>
+    </tr>
   </tbody>
 </table>
 
