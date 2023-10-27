@@ -108,7 +108,8 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 <br>
 Note: These stats are only reflecting my GitHub projects (excluding the CS50 projects)
 <br>
-
+<br />
+<br />
 
 ## 🎨 Portfolio
 
