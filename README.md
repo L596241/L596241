@@ -69,6 +69,10 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>MATLAB
       </td>
       <td align="center" width="16%">
+        <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" width="50px;" alt="Kaggle"/>
+        <br>Kaggle
+      </td>
+      <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px;" alt="Visual Studio Code"/>
         <br>Visual Studio Code
       </td>
@@ -83,10 +87,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50px;" alt="Azure"/>
         <br>Azure
-      </td>
-      <td align="center" width="16%">
-        <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50px;" alt="Spring Boot"/>
-        <br>Spring Boot
       </td>
     </tr>
     <tr>
@@ -103,12 +103,13 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>IntelliJ
       </td>
       <td colspan="3" align="center">
-        <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" width="50px;" alt="Microsoft office 365"/>
+        <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" width="75px;" height="50px;" alt="Microsoft Office 365"/>
         <br>Microsoft Office 365
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## 📈 GitHub Stats
@@ -123,7 +124,7 @@ You can find some of my projects here in GitHub-repositores, but I recommend che
 
 ## 🌱 Current Learning Goals
 
-Machine learning and Advanced Algorithms
+Machine learning and Advanced Algorithms ✅
 
-CS50 Ai - Harvard University
+CS50 Ai - Harvard University ✅
 
