@@ -7,7 +7,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 ![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
-## 🛠 Teknologi & Verktøy
+## 🛠 Technologies & Tools
 
 <table>
   <tbody>
