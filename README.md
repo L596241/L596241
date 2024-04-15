@@ -59,7 +59,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>CSS
       </td>
       <td align="center" width="16%">
-        <img src="[https://camo.githubusercontent.com/27b33e5c7c4a5f8a3dd07f6a520bba682a0a1a6b/68747470733a2f2f73766773686172652e636f6d2f692f51736d2e737667](https://raw.githubusercontent.com/pallets/jinja/3fd91e4d11bdd131d8c12805177dbe74d85e7b82/artwork/jinjalogo.svg)" width="50px;" alt="Jinja"/>
+        <img src="https://raw.githubusercontent.com/pallets/jinja/3fd91e4d11bdd131d8c12805177dbe74d85e7b82/artwork/jinjalogo.svg" width="50px;" alt="Jinja"/>
         <br>Jinja
       </td>
     </tr>
