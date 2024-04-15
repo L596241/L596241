@@ -7,7 +7,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
 ![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
-## 🛠 Technologies & Tools
+## 🛠 Teknologi & Verktøy
 
 <table>
   <tbody>
@@ -69,10 +69,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>MATLAB
       </td>
       <td align="center" width="16%">
-        <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" width="50px;" alt="Kaggle"/>
-        <br>Kaggle
-      </td>
-      <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px;" alt="Visual Studio Code"/>
         <br>Visual Studio Code
       </td>
@@ -88,6 +84,10 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50px;" alt="Azure"/>
         <br>Azure
       </td>
+      <td align="center" width="16%">
+        <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50px;" alt="Spring Boot"/>
+        <br>Spring Boot
+      </td>
     </tr>
     <tr>
       <td align="center" width="16%">
@@ -102,13 +102,18 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="IntelliJ"/>
         <br>IntelliJ
       </td>
-      <td colspan="3" align="center">
-        <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" width="75px;" height="50px;" alt="Microsoft Office 365"/>
+      <td align="center" width="16%">
+        <img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" width="50px;" alt="Kaggle"/>
+        <br>Kaggle
+      </td>
+      <td colspan="2" align="center">
+        <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" width="100px;" height="50px;" alt="Microsoft Office 365"/>
         <br>Microsoft Office 365
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 
