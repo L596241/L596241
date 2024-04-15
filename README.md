@@ -102,9 +102,9 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="IntelliJ"/>
         <br>IntelliJ
       </td>
-      <td colspan="3" align="center">
-        <img src="https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png"/>
-        <br>Microsoft Office 365
+      td align="center" width="16%">
+        <img src="https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png" width="50px;" height="50px" alt="Microsoft Office 365"/> 
+        <br>Microsoft 365
       </td>
     </tr>
   </tbody>
