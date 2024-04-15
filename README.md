@@ -103,7 +103,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>IntelliJ
       </td>
       <td colspan="3" align="center">
-        <img src="https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png" width="50px;" alt="Microsoft office 365"/>
+        <img src="https://developer.microsoft.com/_devcom/images/logo-ms-social.png" width="50px;" alt="Microsoft office 365"/>
         <br>Microsoft Office 365
       </td>
     </tr>
