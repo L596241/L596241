@@ -29,7 +29,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>C#
       </td>
       <td align="center" width="16%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px;" height="50px" alt="HTML5"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50px;" alt="HTML5"/>
         <br>HTML5
       </td>
       <td align="center" width="16%">
@@ -59,7 +59,7 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <br>CSS
       </td>
       <td align="center" width="16%">
-        <img src="https://camo.githubusercontent.com/27b33e5c7c4a5f8a3dd07f6a520bba682a0a1a6b/68747470733a2f2f73766773686172652e636f6d2f692f51736d2e737667" width="50px;" alt="Jinja"/>
+        <img src="https://raw.githubusercontent.com/pallets/jinja/3fd91e4d11bdd131d8c12805177dbe74d85e7b82/artwork/jinjalogo.svg" width="50px;" alt="Jinja"/>
         <br>Jinja
       </td>
     </tr>
@@ -67,10 +67,6 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="50px;" alt="MATLAB"/>
         <br>MATLAB
-      </td>
-      <td align="center" width="16%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Microsoft_365_logo.png" width="50px;" height="50px" alt="Microsoft Office 365"/> <!-- Adjusted size -->
-        <br>Microsoft 365
       </td>
       <td align="center" width="16%">
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px;" alt="Visual Studio Code"/>
@@ -88,6 +84,10 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" width="50px;" alt="Azure"/>
         <br>Azure
       </td>
+      <td align="center" width="16%">
+        <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="50px;" alt="Spring Boot"/>
+        <br>Spring Boot
+      </td>
     </tr>
     <tr>
       <td align="center" width="16%">
@@ -102,14 +102,13 @@ I'm an enthusiastic Computer Engineering Student, always ready for new adventure
         <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="IntelliJ"/>
         <br>IntelliJ
       </td>
-      <td colspan="3" align="center"> <!-- Consider using this space for any additional tools or technologies -->
-        <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="50px;" alt="Additional Tool"/>
-        <br>Additional Tool
+      <td colspan="3" align="center">
+        <img src="https://logosmarcas.net/wp-content/uploads/2021/02/Microsoft-Office-365-Logo.png" width="50px;" alt="Microsoft office 365"/>
+        <br>Microsoft Office 365
       </td>
     </tr>
   </tbody>
 </table>
-
 
 
 ## 📈 GitHub Stats
