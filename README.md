@@ -2,7 +2,7 @@
 
 
 
-I'm an enthusiastic Computer Engineering Student, always ready for new adventures.
+I'm an enthusiastic Computer Engineer, always ready for new adventures.
 
 ![Programming GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
