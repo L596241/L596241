@@ -127,9 +127,3 @@ I'm an enthusiastic Computer Engineer, always ready for new adventures.
 
 You can find some of my projects here in GitHub-repositores, but I recommend checking out my portfolio page https://l596241.github.io/mxlarscoding/
 
-## 🌱 Current Learning Goals
-
-Machine learning and Advanced Algorithms ✅
-
-CS50 Ai - Harvard University ✅
-
